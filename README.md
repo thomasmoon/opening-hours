@@ -6,6 +6,8 @@ It is a recruitment task for Wolt.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Screenshot](/public/screenshot.png?raw=true "Screenshot")
+
 ## Available Scripts
 
 In the project directory, you can run:
