@@ -6,7 +6,7 @@ Here are a couple of things that I encountered on my journey in understanding Wo
 
 ### Wolt.fi Search
 
-The website is very nice, there's not much room for improvement! One thing that stuck out for me however, was the search field that seemed a bit naked and it's purpose somewhat unclear.
+The website is very nice, there's not much room for improvement! One thing that stuck out for me however, was the search field that seemed a bit naked and its purpose somewhat unclear.
 
 My proposal to improve it, would be to change the text to give information about what can be searched for, restaurants in this case.
 
