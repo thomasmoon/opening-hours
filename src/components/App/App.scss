@@ -1,0 +1,63 @@
+@import '../../sharedStyles/colors.scss';
+
+.App {
+  margin: 0 auto;
+  max-width: 420px;
+  text-align: center;
+}
+
+.App-logo {
+  color: $color-grey3;
+  font-size: 0.75rem;
+  position: absolute;
+  bottom: 0.5rem;
+  left: 1rem;
+  text-decoration: none;
+}
+
+.App-logo:focus {
+  outline: none;
+  text-decoration: underline;
+}
+
+.App-logo-img {
+  height: 2rem;
+  margin-top: 0.25rem;
+}
+
+.App-tm {
+  color: $color-grey3;
+  font-size: 0.75rem;
+  position: absolute;
+  bottom: 0.5rem;
+  right: 1rem;
+  text-decoration: none;
+}
+
+.App-tm:focus {
+  outline: none;
+  text-decoration: underline;
+}
+
+.App-tm-img {
+  height: 2rem;
+  margin-top: 0.25rem;
+  opacity: 0.1;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 1.5vmin);
+  color: $color-black;
+}
+
+.card {
+  background: $color-white;
+  border-radius: 15px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15), 0 0px 5px 0 rgba(0, 0, 0, 0.15);
+  padding: 32px;
+}
