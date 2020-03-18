@@ -11,7 +11,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <OpeningHours></OpeningHours>
-        <a href="https://wolt.fi/" className="App-logo">
+      </header>
+      <a href="https://wolt.fi/" className="App-logo">
           demo for<br />
           <img src={logo} className="App-logo-img" alt="logo" />
         </a>
@@ -19,7 +20,6 @@ function App() {
           by Thomas Moon<br />
           <img src={logoTm} className="App-tm-img" alt="Thomas Moon" />
         </a>
-      </header>
     </div>
   );
 }

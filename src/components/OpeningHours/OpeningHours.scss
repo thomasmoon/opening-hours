@@ -4,8 +4,9 @@
   background: $color-white;
   border-radius: 1rem;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15), 0 0px 5px 0 rgba(0, 0, 0, 0.15);
-  padding: 32px;
-  width: calc(100% - 64px);
+  padding: 2rem;
+  margin: 1rem;
+  width: calc(100% - 64px - 2rem);
   max-width: 420px;
 }
 
