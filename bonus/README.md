@@ -12,7 +12,7 @@ My proposal to improve it, would be to change the text to give information about
 
 ![Screenshot](/bonus/wolt.fi-design-review-search.png?raw=true "Screenshot")
 
-[Design Review PDF](/bonus/wolt.fi-design-review-search.pdf)
+[Design Review PDF](/bonus/wolt.fi-design-review-search.pdf?raw=true)
 
 ## CloudFront 401 Error
 
